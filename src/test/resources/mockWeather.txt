@@ -1,0 +1,9 @@
+*********************************
+            Weather forecast
+ Report time: 2023-09-30 09:12:05
+ Address: shanxi, yuncheng
+ Temperature: 20
+ Humidity: 32
+ weather: sun
+ Wind direction: east
+*********************************

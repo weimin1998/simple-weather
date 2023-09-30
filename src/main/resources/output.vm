@@ -1,0 +1,9 @@
+*********************************
+            Weather forecast
+ Report time: ${weather.reporttime}
+ Address: ${weather.province}, ${weather.city}
+ Temperature: ${weather.temperature}
+ Humidity: ${weather.humidity}
+ weather: ${weather.weather}
+ Wind direction: ${weather.winddirection}
+*********************************
